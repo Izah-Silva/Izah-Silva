@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Izah-Silva/Izah-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Izabella Silva 
 
-Here are some ideas to get you started:
+#### Front-End Developer 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+💻 Studying:
+- JavaScript, Bootstrap, React, Node, MongoDb.
+
+🤔 I’m looking for help with my first opportunity as a Front-End Developer
+
+ 💬 Ask me about IT Recruitment
+ 
+ 📫 How to reach me:
+ 
+ [LinkedIn](https://www.linkedin.com/in/izabella-silva-136724b1/)
+ 
+ [E-mail](izabellaspv@gmail.com)
+
+
