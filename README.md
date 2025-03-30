@@ -1,14 +1,15 @@
 
 ### Izabella Silva 
 
-#### Front-End Developer 👩‍💻
+#### Back-End Developer 👩‍💻
 
 
 
 💻 Studying:
+- Java, Spring, AWS
 - JavaScript, Bootstrap, React, Node, MongoDb.
 
-🤔 I’m looking for help with my first opportunity as a Front-End Developer
+🤔 I’m looking for help with my first opportunity as a Back-End Developer
 
  💬 Ask me about IT Recruitment
  
