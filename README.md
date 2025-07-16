@@ -7,13 +7,13 @@
 
 ### 🚀 Sobre mim
 
-Sou uma profissional em transição de carreira, com mais de 10 anos de experiência em **Tech Recruiting** e agora focada 100% em me tornar uma **Desenvolvedora Back-End Java**. Tenho estudado com disciplina e entusiasmo tecnologias robustas como Java, Spring Boot e AWS, aplicando tudo em projetos práticos.
+Sou uma profissional em transição de carreira, com mais de 10 anos de experiência em **Tech Recruiting** e agora focada 100% em me tornar uma **Desenvolvedora Back-End Java**. 
 
 Atualmente estou trabalhando em projetos próprios como o **Screenmatch**, um app em console que consome a API do OMDb, e busco minha **primeira oportunidade profissional como desenvolvedora.**
 
 ---
 
-### 📚 Tecnologias em estudo
+### 📚 Tecnologias 
 
 - **Back-end**: Java • Spring Boot • MySQL • JPA • REST APIs • AWS (CLF-C02 em andamento)
 - **Front-end (suporte aos estudos)**: HTML • CSS • Bootstrap • JavaScript • React
@@ -48,9 +48,4 @@ Atualmente estou trabalhando em projetos próprios como o **Screenmatch**, um ap
 ✉️ izabellaspv@gmail.com
 
 ---
-
-### 🌱 Em constante evolução
-
-> “Não existe atalho para onde vale a pena chegar.”  
-> — Beverly Sills
 
